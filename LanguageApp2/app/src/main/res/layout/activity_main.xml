@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--suppress AndroidUnresolvableTag -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/style1"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_margin="3dp"
+            android:background="#CBD813"
+            android:text="Numbers" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/textView2"
+            style="@style/style1"
+            android:layout_width="match_parent"
+            android:layout_height="115dp"
+            android:layout_margin="3dp"
+            android:background="#CBD813"
+            android:onClick="Family_click"
+            android:text="Family Members" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/textView3"
+            style="@style/style1"
+            android:layout_width="match_parent"
+            android:layout_height="112dp"
+            android:layout_margin="3dp"
+            android:background="#CBD813"
+            android:onClick="colour_click"
+            android:text="Colours" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/textView4"
+            style="@style/style1"
+            android:layout_width="match_parent"
+            android:layout_height="113dp"
+            android:layout_margin="3dp"
+            android:background="#CBD813"
+            android:onClick="phrase_click"
+            android:text="Phrases" />
+    </FrameLayout>
+
+</LinearLayout>

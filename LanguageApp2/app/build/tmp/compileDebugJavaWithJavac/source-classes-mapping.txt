@@ -1,0 +1,38 @@
+com/example/languageapp/databinding/ActivityMainBinding.java
+ com.example.languageapp.databinding.ActivityMainBinding
+com/example/languageapp/databinding/ActivityPhrasesBinding.java
+ com.example.languageapp.databinding.ActivityPhrasesBinding
+com/example/languageapp/WordAdapter.java
+ com.example.languageapp.WordAdapter
+com/example/languageapp/databinding/ActivityColoursBinding.java
+ com.example.languageapp.databinding.ActivityColoursBinding
+com/example/languageapp/databinding/ListItemBinding.java
+ com.example.languageapp.databinding.ListItemBinding
+com/example/languageapp/databinding/ActivityNumbersBinding.java
+ com.example.languageapp.databinding.ActivityNumbersBinding
+com/example/languageapp/BuildConfig.java
+ com.example.languageapp.BuildConfig
+com/example/languageapp/databinding/ActivityFamilyMemberBinding.java
+ com.example.languageapp.databinding.ActivityFamilyMemberBinding
+com/example/languageapp/Word.java
+ com.example.languageapp.Word
+com/example/languageapp/Phrases.java
+ com.example.languageapp.Phrases
+com/example/languageapp/Numbers.java
+ com.example.languageapp.Numbers
+ com.example.languageapp.Numbers$1
+ com.example.languageapp.Numbers$1$1
+com/example/languageapp/Family_member.java
+ com.example.languageapp.Family_member
+ com.example.languageapp.Family_member$1
+ com.example.languageapp.Family_member$1$1
+com/example/languageapp/MainActivity.java
+ com.example.languageapp.MainActivity
+ com.example.languageapp.MainActivity$1
+ com.example.languageapp.MainActivity$2
+ com.example.languageapp.MainActivity$3
+ com.example.languageapp.MainActivity$4
+com/example/languageapp/Colours.java
+ com.example.languageapp.Colours
+ com.example.languageapp.Colours$1
+ com.example.languageapp.Colours$1$1

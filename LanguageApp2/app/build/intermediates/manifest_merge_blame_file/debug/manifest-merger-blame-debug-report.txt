@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.languageapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:5:5-36:19
+12        android:allowBackup="true"
+12-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\hp\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/letter_l_icon"
+15-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:7:9-47
+16        android:label="@string/app_name"
+16-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:8:9-41
+17        android:supportsRtl="true"
+17-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:9:9-35
+18        android:testOnly="true"
+19        android:theme="@style/Theme.LanguageApp" >
+19-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:10:9-49
+20        <activity
+20-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:11:9-14:39
+21            android:name="com.example.languageapp.Phrases"
+21-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:12:13-36
+22            android:exported="true"
+22-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:13:13-36
+23            android:label="Phrases" />
+23-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:14:13-36
+24        <activity
+24-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:15:9-18:39
+25            android:name="com.example.languageapp.Colours"
+25-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:16:13-36
+26            android:exported="true"
+26-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:17:13-36
+27            android:label="Colours" />
+27-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:18:13-36
+28        <activity
+28-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:19:9-22:46
+29            android:name="com.example.languageapp.Family_member"
+29-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:20:13-42
+30            android:exported="true"
+30-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:21:13-36
+31            android:label="Family Members" />
+31-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:22:13-43
+32        <activity
+32-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:23:9-26:39
+33            android:name="com.example.languageapp.Numbers"
+33-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:24:13-36
+34            android:exported="true"
+34-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:25:13-36
+35            android:label="Numbers" />
+35-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:26:13-36
+36        <activity
+36-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:28:9-35:20
+37            android:name="com.example.languageapp.MainActivity"
+37-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:29:13-41
+38            android:exported="true" >
+38-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:30:13-36
+39            <intent-filter>
+39-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:31:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:32:17-69
+40-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:32:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:33:17-77
+42-->C:\Intel\LanguageApp2\app\src\main\AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>

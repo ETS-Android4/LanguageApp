@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Intel\\LanguageApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "C:\\Intel\\LanguageApp2\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Intel\\LanguageApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_numbers.xml",
+        "source": "C:\\Intel\\LanguageApp2\\app\\src\\main\\res\\layout\\activity_numbers.xml"
+    },
+    {
+        "merged": "C:\\Intel\\LanguageApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phrases.xml",
+        "source": "C:\\Intel\\LanguageApp2\\app\\src\\main\\res\\layout\\activity_phrases.xml"
+    },
+    {
+        "merged": "C:\\Intel\\LanguageApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Intel\\LanguageApp2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Intel\\LanguageApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_family_member.xml",
+        "source": "C:\\Intel\\LanguageApp2\\app\\src\\main\\res\\layout\\activity_family_member.xml"
+    },
+    {
+        "merged": "C:\\Intel\\LanguageApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_colours.xml",
+        "source": "C:\\Intel\\LanguageApp2\\app\\src\\main\\res\\layout\\activity_colours.xml"
+    }
+]

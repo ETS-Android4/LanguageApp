@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style1">
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">#FFFCFC</item>
+        <item name="fontFamily">casual</item>
+        <item name="android:textSize">32dp</item>
+        <item name="backgroundColor">@android:color/holo_blue_bright</item>
+    </style>
+</resources>
