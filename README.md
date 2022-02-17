@@ -2,7 +2,7 @@
 # LanguageApp
 
 This is and demo learning Android App with a simple UI.
-This appliction simply depict hindi to english translation and pronunciation of numbers,family members,phrases and Colors.
+This appliction simply depict english to hindi translation and pronunciation of numbers,family members,phrases and Colors.
 
 
 ## Features
