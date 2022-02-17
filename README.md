@@ -12,11 +12,11 @@ This application simply depict english to hindi translation and pronunciation of
 
 ## Lessons Learned
 
-Here I have lerane to use core concepts of android like diff. Layout , Adding images and audio video file in app , Intents , Music Listener , about OnClickListeners. 
+Here I have learned to use core concepts of android like diff. Layout , Style , theme , Manifest file , OOPs concept like custom classes, adapters , Adding images and audio video file in app , Intents , Music Listener , about OnClickListeners. 
 OnCreate , OnPause , OnStart , OnProgress working model etc.
 
 
-## Screenshots
+## Screenshot
 
 <img src="https://user-images.githubusercontent.com/84755719/154401746-dee3fe72-11e3-4e8a-8f61-1808a765018a.png" width="500" height="800" />
 <img src="https://user-images.githubusercontent.com/84755719/154401769-43706676-fb21-4fea-ad04-65f1b22fedb1.png" width="500" height="800" />
