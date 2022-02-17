@@ -18,8 +18,8 @@ OnCreate , OnPause , OnStart , OnProgress working model etc.
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/84755719/154401746-dee3fe72-11e3-4e8a-8f61-1808a765018a.png" width="200" height="200" />
-<img src="https://user-images.githubusercontent.com/84755719/154401769-43706676-fb21-4fea-ad04-65f1b22fedb1.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/84755719/154401746-dee3fe72-11e3-4e8a-8f61-1808a765018a.png" width="500" height="800" />
+<img src="https://user-images.githubusercontent.com/84755719/154401769-43706676-fb21-4fea-ad04-65f1b22fedb1.png" width="500" height="800" />
 
-<img src="https://user-images.githubusercontent.com/84755719/154401862-340bc52d-e07d-4809-be78-bca78260c808.png" width="200" height="200" />
-<img src="https://user-images.githubusercontent.com/84755719/154401875-e1a2d171-363e-41b1-ad26-dde2ef78b433.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/84755719/154401862-340bc52d-e07d-4809-be78-bca78260c808.png" width="500" height="800" />
+<img src="https://user-images.githubusercontent.com/84755719/154401875-e1a2d171-363e-41b1-ad26-dde2ef78b433.png" width="500" height="800" />
